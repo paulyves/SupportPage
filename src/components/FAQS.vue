@@ -269,7 +269,6 @@ name:'faqs-troubleshooting'
 <style>
 .faqs{
 width: 80%;
-border: black solid;
 }
 .qa-class{
   color: #5696c1;
