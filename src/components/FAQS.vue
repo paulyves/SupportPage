@@ -6,6 +6,7 @@
         <div class="col"><h4 class="qa-class">FAQS</h4></div>
       </div>
       
+      
       <div class="faqs">
         <div class="row mt-3">
         <div class="col">
@@ -13,6 +14,7 @@
         Will I be able to make or receive landline calls even  when I'm outside my home?</p>    
         </div>
       </div>
+
       <div class="row">
         <div class="col">
       <p>Absolutely! This is the main thing that Wavephone does for you. For as long as your mobile phone has Internet access through 4G/LTE, your office wifi or a restaurant wifi, Wavephone Dialer app will be able to make or recieve landline calls through the base unit Installed In your home. </p>    
