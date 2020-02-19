@@ -1,12 +1,13 @@
 <template>
   <div class="troubleshooting">
     <div class="container">
-      <h3>FAQS & Troubleshooting</h3>
+      <h3>FAQs & Troubleshooting</h3>
       <div class="row mt-5">
-        <div class="col"><h4 class="qa-class">FAQS</h4></div>
+        <div class="col"><h4 class="qa-class">FAQs</h4></div>
       </div>
       
-      
+      <b-card>
+
       <div class="faqs">
         <div class="row mt-3">
         <div class="col">
@@ -21,6 +22,9 @@
         </div>
       </div>
       </div>
+      </b-card>
+      <br>
+      <b-card>
 
       <div class="faqs">
         <div class="row mt-3">
@@ -34,6 +38,11 @@
         </div>
       </div>
       </div>
+      </b-card>
+      <br>
+
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -47,6 +56,12 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+
+      <b-card>
+
 
 
       <div class="faqs">
@@ -61,6 +76,11 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+      
+      <b-card>
 
       <div class="faqs">
         <div class="row mt-3">
@@ -74,6 +94,12 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -87,6 +113,12 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -100,6 +132,11 @@
         </div>
       </div>
       </div>
+      </b-card>
+      <br>
+
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -113,6 +150,12 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -126,6 +169,11 @@
         </div>
       </div>
       </div>
+      </b-card>
+      <br>
+
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -139,6 +187,11 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -152,6 +205,9 @@
         </div>
       </div>
       </div>
+      </b-card>
+      <br>
+      <b-card>
 
       <div class="faqs">
         <div class="row mt-3">
@@ -165,6 +221,10 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+      <b-card>
 
       <div class="faqs">
         <div class="row mt-3">
@@ -178,6 +238,11 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -191,6 +256,12 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -204,6 +275,12 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -217,6 +294,12 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -230,6 +313,12 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -243,6 +332,12 @@
         </div>
       </div>
       </div>
+      </b-card>
+
+      <br>
+
+      <b-card>
+
 
       <div class="faqs">
         <div class="row mt-3">
@@ -256,6 +351,7 @@
         </div>
       </div>
       </div>
+      </b-card>
       
     </div>
 
