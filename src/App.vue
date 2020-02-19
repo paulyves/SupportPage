@@ -4,11 +4,11 @@
 
      <b-row>
  
-     <b-col class="b2" cols="6">
+     <b-col class="b2" md="6">
     <Faqs />
 
      </b-col>
-     <b-col class="b3" cols="6">
+     <b-col class="b3" md="6">
       
        <TroubleShoting />
      </b-col>
