@@ -169,17 +169,13 @@ export default {
 </script>
 
 <style scoped>
-.cardbg{
-   /* background-color: #2aabdf; */
-}
+
 
 .qOne{
     color: #5696c1;
 }
 
-.qOne:hover{
-    /* color: white; */
-}
+
 
 .btn-width{
     font-size: 16px;
@@ -187,25 +183,7 @@ export default {
     background-color: white;
 }
 
-/* .btn-width:hover{
-    color: white;
-    background-color: #2aabdf;
-}
-
-.btn-width:focus{
-    background-color: white;
-}
-.btn-width:active{
-    background-color: #2aabdf;
-} */
-
-.testCol{
-    background-color: white;
-}
-
 .pointer {cursor: pointer;}
 
-.btn-col{
-    
-}
+
 </style>

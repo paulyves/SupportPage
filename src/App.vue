@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <b-container id="containerId" class="containerStyle  ">
+    <b-container id="containerId" class="containerStyle pl-sm-5 pl-md-0  pl-0 mt-md-0  mt-3 ">
 
      <b-row>
  
@@ -30,30 +30,16 @@ export default {
 
   data(){
     return {
-      callClass: true
+   
     }
   },
 
   methods:{
-    // callClass(){
-    //   // document.getElementById("containerId").className = "containerStyle1";
-    //   // document.getElementById("containerId").className = "containerStyle1";
-    //   if (document.getElementsByClassName("d-none d-md-block")) {
-        
-    //     console.log("we")
-    //   }
-    // }
+  
   },
 
   watch:{
-    callClass:{
-      handler: function (value) {
-     if (value == true) {
-       console.log("ok")
-     }
-      
-      }
-    }
+    
   }
 }
 </script>
@@ -71,10 +57,10 @@ export default {
 
 
 
-   /* display: grid;   */
+   /* display: grid;  
     grid-gap: 5px;  
     /* grid-template-columns: repeat(auto-fit, 100px); */
-    grid-template-rows: repeat(2, 100px);  
+    /* grid-template-rows: repeat(2, 100px);    */
 }
 
 .b3{
