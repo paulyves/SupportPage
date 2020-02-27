@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <b-container id="containerId" class="containerStyle pl-sm-5 pl-md-0  pl-0 mt-md-0  mt-3 ">
+    <!-- <b-container id="containerId" class="containerStyle pl-sm-5 pl-md-0  pl-0 mt-md-0  mt-3 ">
 
      <b-row>
  
@@ -13,19 +13,23 @@
        <TroubleShoting />
      </b-col>
    </b-row>
-    </b-container>
+    </b-container> -->
+    <MainSupport />
+
   </div>
 </template>
 
 <script>
 
-import Faqs from './components/FAQS.vue'
-import  TroubleShoting  from "./components/TroubleShoting.vue";
+// import Faqs from './components/FAQS.vue'
+// import  TroubleShoting  from "./components/TroubleShoting.vue";
+import MainSupport from './components/MainSupport'
 export default {
   name: 'App',
   components:{
-    Faqs,
-    TroubleShoting
+    // Faqs,
+    // TroubleShoting
+    MainSupport
   },
 
   data(){
@@ -48,6 +52,7 @@ export default {
 #app{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     height:100vh;
+  
 }
 
 .containerStyle{
