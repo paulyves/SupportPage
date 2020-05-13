@@ -8,7 +8,7 @@
         <a href="http://wavephonehome.com"
           ><img
             id="wavephone-logo"
-            src="http://wavephonehome.com/wp-content/themes/wavephone-theme/img/wavephonebluelogo.png"
+            src="@/assets/wavephonebluelogo.png"
         /></a>
         <a
           href="javascript:void(0);"

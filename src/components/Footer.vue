@@ -20,7 +20,7 @@
               </div>
           </nav>
           <a href="">
-              <img src="http://wavephonehome.com/wp-content/themes/wavephone-theme/img/wavephonewhitelogo.png" alt="wavephone-logo" id="wavephone-logo">
+              <img src="@/assets/wavephonewhitelogo.png" alt="wavephone-logo" id="wavephone-logo">
           </a>
           <div class="footer-desc">
               <p>

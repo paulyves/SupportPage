@@ -158,7 +158,7 @@
         style="border-bottom:#ededed solid;"
       >
         <a class="pointer btn-link ml-2">
-          I sometimes recieve a call from 8001, who is calling me?
+          I sometimes get an 'Err' when I try to call someone. What does it mean?
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
@@ -167,12 +167,7 @@
             role="tabpanel"
           >
             <p class="ans-class ml-3">
-              If your landline service does not have caller ID enabled and you
-              recieved a landline call, what you will see on your app is the
-              extension number of your base unit which is 8001. In newer
-              versions of the base unit, what you will see is "Anonymous". If
-              you wish to enable caller ID, contact your landline service
-              provider.
+              It can mean one of 3 situations - the person you tried to call rejected your call. Or, the person you tried to call is offline. Or, the person you tried to call didn't answer after so many rings.
             </p>
           </b-collapse>
         </div>
@@ -184,7 +179,7 @@
         style="border-bottom:#ededed solid;"
       >
         <a class="pointer btn-link ml-2">
-          How do I know my Wavephone number?
+          How do I know my extension number?
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
@@ -193,14 +188,7 @@
             role="tabpanel"
           >
             <p class="ans-class ml-3">
-              Three ways. First, the QR card you used to activate or login to
-              the Wavephone Dialer app has your Wavephone number written on it.
-              The 7-digit number above the QR code is your Wavephone number.
-              Second, if you lost your QR card, go to Settings > Account Setup
-              in the app. The 7-digit number preceding the last 2-digits of the
-              username is your Wavephone number. And third is by calling another
-              extension. If you see a 9-digit number on the app of the person
-              you are calling, the first 7 digits is your Wavephone number.
+              Three ways. First, the QR card you used to activate or login to the Wavephone Dialer app has your extension number written on it. The 2-digit number in a large font below the QR code is your extension number. Second, if you lost your QR card, go to Settings > Account Setup in the app. The last 2 digits of the username is your extension number. And third is by calling another extension. If you see a 9-digit number on the app of the person you are calling. the last 2-digits is your extension number.
             </p>
           </b-collapse>
         </div>
@@ -212,11 +200,32 @@
         style="border-bottom:#ededed solid;"
       >
         <a class="pointer btn-link ml-2">
-          What is the Wavephone number useful for?
+          How do I know my Wavephone number?
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
             id="accordion-18"
+            accordion="my-accordion"
+            role="tabpanel"
+          >
+            <p class="ans-class ml-3">
+              Three ways. First, the QR card you used to activate or login to the Wavephone Dialer app has your Wavephone number written on it. The 7-digit number above the QR code is your Wavephone number. Second, your Wavephone number is printed on the face of your base unit. And third is by calling another extension. If you see a 9-digit number on the app of the person you are calling, the first 7 digits is your Wavephone number.
+            </p>
+          </b-collapse>
+        </div>
+      </div>
+
+      <div
+        v-b-toggle.accordion-19
+        class="btn-col pointer mb-2"
+        style="border-bottom:#ededed solid;"
+      >
+        <a class="pointer btn-link ml-2">
+          What is the Wavephone number useful for?
+        </a>
+        <div class="collapse-bckgrnd container">
+          <b-collapse
+            id="accordion-19"
             accordion="my-accordion"
             role="tabpanel"
           >
@@ -235,7 +244,7 @@
       </div>
 
       <div
-        v-b-toggle.accordion-19
+        v-b-toggle.accordion-20
         class="btn-col pointer mb-2"
         style="border-bottom:#ededed solid;"
       >
@@ -244,7 +253,7 @@
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
-            id="accordion-19"
+            id="accordion-20"
             accordion="my-accordion"
             role="tabpanel"
           >
@@ -258,7 +267,7 @@
       </div>
 
       <div
-        v-b-toggle.accordion-20
+        v-b-toggle.accordion-21
         class="btn-col pointer mb-2"
         style="border-bottom:#ededed solid;"
       >
@@ -267,7 +276,7 @@
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
-            id="accordion-20"
+            id="accordion-21"
             accordion="my-accordion"
             role="tabpanel"
           >
@@ -280,39 +289,12 @@
       </div>
 
       <div
-        v-b-toggle.accordion-21
-        class="btn-col pointer mb-2"
-        style="border-bottom:#ededed solid;"
-      >
-        <a class="pointer btn-link ml-2">
-          What will happen if I use the same QR card to register another
-          smartphone?
-        </a>
-        <div class="collapse-bckgrnd container">
-          <b-collapse
-            id="accordion-21"
-            accordion="my-accordion"
-            role="tabpanel"
-          >
-            <p class="ans-class ml-3">
-              The last smartphone that registered using QR card will be the
-              smartphone that will recieve calls. The previous smartphone will
-              be deregistered automatically but not instantly. There could be a
-              short and temporary period of time where incoming calls can be
-              recieved by either phone.
-            </p>
-          </b-collapse>
-        </div>
-      </div>
-
-      <div
         v-b-toggle.accordion-22
         class="btn-col pointer mb-2"
         style="border-bottom:#ededed solid;"
       >
         <a class="pointer btn-link ml-2">
-          In case I lost my smartphone and bought a new one, is there a way for
-          me to keep my previously registered extension number?
+           What will happen if I use the same QR card to register another smartphone?
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
@@ -321,8 +303,7 @@
             role="tabpanel"
           >
             <p class="ans-class ml-3">
-              Yes.Simply scan the QR card you used to register before. Your old
-              smartphone will be deregistered automatically.
+           You will not be able to unless you unlock the QR code first via the subscriber portal. Assuming you have unlocked the QR code and use it to register another smartphone, the previous smartphone will be unregistered automatically.
             </p>
           </b-collapse>
         </div>
@@ -334,11 +315,32 @@
         style="border-bottom:#ededed solid;"
       >
         <a class="pointer btn-link ml-2">
-          I lost all my QR cards. Where can I get replacement?
+          In case I lost my smartphone and bought a new one, is there a way for me to keep my previously registered extension number?
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
             id="accordion-23"
+            accordion="my-accordion"
+            role="tabpanel"
+          >
+            <p class="ans-class ml-3">
+              Yes. Login to the subscriber portal, unlock the QR code you want, then scan it. Your old smartphone will be unregistered automatically.
+            </p>
+          </b-collapse>
+        </div>
+      </div>
+
+      <div
+        v-b-toggle.accordion-24
+        class="btn-col pointer mb-2"
+        style="border-bottom:#ededed solid;"
+      >
+        <a class="pointer btn-link ml-2">
+          I lost all my QR cards. Where can I get replacement?
+        </a>
+        <div class="collapse-bckgrnd container">
+          <b-collapse
+            id="accordion-24"
             accordion="my-accordion"
             role="tabpanel"
           >
@@ -352,7 +354,7 @@
       </div>
 
       <div
-        v-b-toggle.accordion-24
+        v-b-toggle.accordion-25
         class="btn-col pointer mb-2"
         style="border-bottom:#ededed solid;"
       >
@@ -361,7 +363,7 @@
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
-            id="accordion-24"
+            id="accordion-25"
             accordion="my-accordion"
             role="tabpanel"
           >
@@ -373,7 +375,7 @@
       </div>
 
       <div
-        v-b-toggle.accordion-25
+        v-b-toggle.accordion-26
         class="btn-col pointer mb-2"
         style="border-bottom:#ededed solid;"
       >
@@ -384,7 +386,7 @@
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
-            id="accordion-25"
+            id="accordion-26"
             accordion="my-accordion"
             role="tabpanel"
           >
@@ -398,7 +400,7 @@
       </div>
 
       <div
-        v-b-toggle.accordion-26
+        v-b-toggle.accordion-27
         class="btn-col pointer"
         style="border-bottom:#ededed solid;"
       >
@@ -407,7 +409,7 @@
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
-            id="accordion-26"
+            id="accordion-27"
             accordion="my-accordion"
             role="tabpanel"
           >
@@ -421,7 +423,7 @@
       </div>
 
       <div
-        v-b-toggle.accordion-27
+        v-b-toggle.accordion-28
         class="btn-col pointer"
         style="border-bottom:#ededed solid;"
       >
@@ -431,7 +433,7 @@
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
-            id="accordion-27"
+            id="accordion-28"
             accordion="my-accordion"
             role="tabpanel"
           >
@@ -445,7 +447,7 @@
         </div>
       </div>
       <div
-        v-b-toggle.accordion-28
+        v-b-toggle.accordion-29
         class="btn-col pointer"
         style="border-bottom:#ededed solid;"
       >
@@ -454,7 +456,7 @@
         </a>
         <div class="collapse-bckgrnd container">
           <b-collapse
-            id="accordion-28"
+            id="accordion-29"
             accordion="my-accordion"
             role="tabpanel"
           >
