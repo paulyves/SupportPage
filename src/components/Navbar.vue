@@ -5,7 +5,7 @@
       style="position: fixed; left: 0px; top: 0px; width: 100%; margin-left: 0px; padding: 0px; margin-top: 0px; z-index: 1;"
     >
       <div class="navbar ">
-        <a href="http://wavephonehome.com"
+        <a href="https://wavephonehome.com"
           ><img
             id="wavephone-logo"
             src="@/assets/wavephonebluelogo.png"
@@ -23,25 +23,25 @@
           <a href=""></a>
           <a
             class="mega-menu-link"
-            href="http://wavephonehome.com/#about"
+            href="https://wavephonehome.com/#about"
             tabindex="0"
             >About</a
           >
           <a
             class="mega-menu-link"
-            href="http://wavephonehome.com/#specification"
+            href="https://wavephonehome.com/#specification"
             tabindex="0"
             >Specifications</a
           >
           <a
             class="mega-menu-link"
-            href="http://wavephonehome.com/resources/"
+            href="https://wavephonehome.com/resources/"
             tabindex="0"
             >Resources</a
           >
           <a
             class="mega-menu-link"
-            href="http://wavephonehome.com/#contact"
+            href="https://wavephonehome.com/#contact"
             tabindex="0"
             >Contact Us</a
           >
@@ -50,10 +50,10 @@
 
           <!-- <div id="mega-menu-wrap-header" class="mega-menu-wrap">
     <ul>
-        <li class="mega-menu-item"><a class="mega-menu-link" href="http://wavephonehome.com/#about" tabindex="0">About</a></li>
-        <li class="mega-menu-item"><a class="mega-menu-link" href="http://wavephonehome.com/#specification" tabindex="0">Specifications</a></li>
-        <li class="mega-menu-item"><a class="mega-menu-link" href="http://wavephonehome.com/resources/" tabindex="0">Resources</a></li>
-        <li class="mega-menu-item"><a class="mega-menu-link" href="http://wavephonehome.com/#contact" tabindex="0">Contact Us</a></li>
+        <li class="mega-menu-item"><a class="mega-menu-link" href="https://wavephonehome.com/#about" tabindex="0">About</a></li>
+        <li class="mega-menu-item"><a class="mega-menu-link" href="https://wavephonehome.com/#specification" tabindex="0">Specifications</a></li>
+        <li class="mega-menu-item"><a class="mega-menu-link" href="https://wavephonehome.com/resources/" tabindex="0">Resources</a></li>
+        <li class="mega-menu-item"><a class="mega-menu-link" href="https://wavephonehome.com/#contact" tabindex="0">Contact Us</a></li>
     </ul>
     
 </div> -->
@@ -61,10 +61,10 @@
       </div>
       <div class="black-space">
         <div class="breadcrumbs">
-          <a href="http://wavephonehome.com">Home</a><span> &gt; </span>
-          <a href="http://wavephonehome.com/resources">Resources</a
+          <a href="https://wavephonehome.com">Home</a><span> &gt; </span>
+          <a href="https://wavephonehome.com/resources">Resources</a
           ><span> &gt; </span>
-          <a href="http://wavephonehome.com">FAQs and Trouble shooting</a>
+          <a href="https://wavephonehome.com">FAQs and Trouble shooting</a>
         </div>
       </div>
     </header>

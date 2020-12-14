@@ -5,16 +5,16 @@
               <div class="menu-footer-container">
                   <ul id="menu-footer" class="menu">
                       <li id="menu-item-53" class=" menu-item-53">
-                          <a href="http://wavephonehome.com/#about">About</a>
+                          <a href="https://wavephonehome.com/#about">About</a>
                       </li>
                       <li id="menu-item-54" class=" menu-item-54">
-                          <a href="http://wavephonehome.com/#specification">Specification</a>
+                          <a href="https://wavephonehome.com/#specification">Specification</a>
                       </li>
                       <li id="menu-item-43" class=" menu-item-41">
-                          <a href="http://wavephonehome.com/resources/">Resources</a>
+                          <a href="https://wavephonehome.com/resources/">Resources</a>
                       </li>
                       <li id="menu-item-56" class=" menu-item-56">
-                          <a href="http://wavephonehome.com/#contact">Contact US</a>
+                          <a href="https://wavephonehome.com/#contact">Contact US</a>
                       </li>
                   </ul>
               </div>
